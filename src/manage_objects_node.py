@@ -31,7 +31,7 @@ class ManageObject():
         self.robot_pose = None
         self.beer_on_robot = False
         self.coke_on_robot = False
-
+        #test submodule
         if not self.setup_escenario():
             exit()
             
